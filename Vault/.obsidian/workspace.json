@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "6a25dfb80db4ff28",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3d981e6dba2d1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "563729b5c6287422",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76d653099cce9121",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d047914a8658cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f79ec3e1db5265",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42fe558a801e9492",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99a771077d6ad2a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a89ded86803cca6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "49278da0779f6eff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3a81db838780763",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7675c26bdc59b476",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3aefd7dec9f3c1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc703f49688520c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d628b5113d3972ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "563729b5c6287422",
+  "lastOpenFiles": [
+    "TODO.md",
+    "Kayla.md",
+    "Tag List.md",
+    "Energy.md",
+    "Energy Potion (Small).md",
+    "Workflow.md",
+    "Alustin.md",
+    "Entity Framework.md",
+    "LINQ.md",
+    "GitHub.md",
+    "Git.md"
+  ]
+}
